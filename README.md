@@ -1,4 +1,4 @@
-![Mantha Portfolio Preview](/public/mantha-portfolio-og-image.png)
+![Mantha Portfolio Preview](https://github.com/phalla-doll/phalla-doll/blob/main/mantha-portfolio-og-image.png)
 
 # Welcome to My Front-End Development Portfolio 🚀
 

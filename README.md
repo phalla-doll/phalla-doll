@@ -1,4 +1,4 @@
-![Mantha Portfolio Preview](https://github.com/phalla-doll/portfolio/blob/main/public/mantha-portfolio-og-image.png)
+![Mantha Portfolio Preview](/public/mantha-portfolio-og-image.png)
 
 # Welcome to My Front-End Development Portfolio 🚀
 
@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ### Frameworks & Languages
 - **Languages:** TypeScript, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Next.js, React, Angular, Vue.js, .NET
+- **Frameworks/Libraries:** Next.js, React, Angular, Vue.js, Three.js, .NET
 - **Testing:** Cypress, Jasmine, Biome
 
 ### Tools & Workflow
@@ -35,6 +35,10 @@ Here are some of the technologies and tools I work with:
 ## Projects 💼
 
 Here are some of the projects I've built:
+
+### [Real-Time Earth 3D](https://real-time-earth.vercel.app/)
+**Description:** A high-fidelity 3D Earth visualization that rotates in real-time synchronized with UTC. Features solar and sidereal rotation modes, atmospheric clouds, accurate axial tilt (23.4°), and a complete Earth-Moon-Sun system.
+**Tech Stack:** React, Three.js, TypeScript
 
 ### [KampuJobs](https://kampu-jobs.vercel.app/)
 **Description:** A curated job directory built for job seekers and employers to connect without distraction, featuring advanced filtering and a modern, intuitive user experience.

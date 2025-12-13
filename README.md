@@ -36,6 +36,10 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've built:
 
+### [Multimodal Research Assistant](https://scientific-paper-analyzer.vercel.app/)
+**Description:** A "world-class" multimodal research assistant designed to analyze academic papers (PDFs or text) using Google's Gemini 2.5 Flash model. Built for the Google DeepMind hackathon.
+**Tech Stack:** Google Gemini 2.5 Flash, Next.js, TypeScript, Tailwind CSS
+
 ### [Real-Time Earth 3D](https://real-time-earth.vercel.app/)
 **Description:** A high-fidelity 3D Earth visualization that rotates in real-time synchronized with UTC. Features solar and sidereal rotation modes, atmospheric clouds, accurate axial tilt (23.4°), and a complete Earth-Moon-Sun system.
 **Tech Stack:** React, Three.js, TypeScript

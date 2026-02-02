@@ -43,6 +43,16 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've built:
 
+### [Gold Monitoring Dashboard](https://gold-pulse-rust.vercel.app/)
+
+**Description:** A high-fidelity, dark-mode financial dashboard for real-time Gold (XAU/USD) tracking, market activity, and global reserves, with AI-powered sentiment analysis and live news via Google Gemini.
+**Tech Stack:** React 19, TypeScript, Tailwind CSS, Recharts, Lucide React, Google Gemini API, OpenRouter, Twelve Data API
+
+### [JSON Forge](https://json-forge-rose.vercel.app/)
+
+**Description:** A high-performance JSON editor with Monaco integration, interactive graph visualization, real-time validation, and safe handling of large files (10k+ lines).
+**Tech Stack:** Monaco Editor, React, TypeScript, Tailwind CSS
+
 ### [Calendra Pro](https://calendra-pro.vercel.app/)
 
 **Description:** A scheduling and appointment booking platform that eliminates scheduling friction by allowing businesses to expose real-time availability through a single shareable link. Customers can book appointments instantly without emails, messages, or manual coordination. Features seamless calendar sync, smart reminders, payment integration, and multi-tenant SaaS architecture.

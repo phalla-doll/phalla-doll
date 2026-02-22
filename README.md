@@ -6,7 +6,7 @@ I design and build fast, visual, AI‑driven products for the web.
 
 I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. I work at the intersection of design systems, performance, and AI — turning product ideas into responsive interfaces that feel polished down to the last pixel and frame.
 
-Over the last 5+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This portfolio is a collection of those experiments and products.
+Over the last 7+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This portfolio is a collection of those experiments and products.
 
 
 

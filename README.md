@@ -1,43 +1,22 @@
 ![Mantha Portfolio Preview](https://github.com/phalla-doll/phalla-doll/blob/main/mantha-portfolio-og-image.png)
 
-# Welcome to My Front-End Development Portfolio 🚀
+# Mantha — Frontend Design Engineer
 
-Hello! I'm **Mantha**, a passionate **Frontend Design Engineer** based in **Cambodia**. I specialize in building digital experiences that drive business growth, elevate brands, and feel intuitive. This repository showcases some of my best work, skills, and projects. Dive in and explore!
+I design and build fast, visual, AI‑driven products for the web.
 
-## About Me 👩‍💻
+I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. I work at the intersection of design systems, performance, and AI — turning product ideas into responsive interfaces that feel polished down to the last pixel and frame.
 
-I have **5+ years of experience** in web development. My goal is to bridge the gap between functionality and aesthetics, ensuring that every project I work on is both visually appealing and highly performant.
+Over the last 5+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This portfolio is a collection of those experiments and products.
 
-I focus on:
 
-* **AI that works smarter:** Building data-driven applications that adapt to user behavior.
 
-* **Modern tech, built for performance:** Shipping with Angular, Next.js, React, and TypeScript.
+## What I do
 
-* **Design that feels right:** Sweating the last 1% — alignment, contrast, and motion.
+AI that works in the UI: I build interfaces that don’t just “call an API,” but use models to power real features — research assistants, financial dashboards, and tools that adapt to user behavior.
 
-* **Name:** Mantha
+Modern frontend, production-ready: I ship with Angular, Next.js, React, Vue, and TypeScript, integrating real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not just static prototypes.
 
-* **Location:** Phnom Penh, Cambodia
-
-* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/phalla-doll-60563a1b9/)
-
-## Skills & Tools 🛠️
-
-Here are some of the technologies and tools I work with:
-
-### Frameworks & Languages
-
-* **Languages:** TypeScript, JavaScript, HTML, CSS
-* **Frameworks/Libraries:** Next.js, React, Angular, Vue.js, Three.js, .NET
-* **Testing:** Cypress, Jasmine, Biome
-
-### Tools & Workflow
-
-* **Development:** Cursor, GitHub, Docker, Vercel, Supabase, Cloudflare, WorkOS, Jenkins, Google Cloud, JetBrains, PostHog
-* **Design:** Figma, Framer, Canva
-* **Productivity:** Notion, Linear, Jira, Raycast, OpenAI, Warp
-* **API:** Postman, Httpie, OpenRouter
+Design that feels intentional: I care about micro‑interactions, layout, contrast, and motion. The goal is always the same: interfaces that feel obvious to use, even when the product behind them is complex.
 
 ## Projects 💼
 

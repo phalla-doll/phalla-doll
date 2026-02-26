@@ -18,6 +18,16 @@ Modern frontend, production-ready: I ship with Angular, Next.js, React, Vue, and
 
 Design that feels intentional: I care about micro‑interactions, layout, contrast, and motion. The goal is always the same: interfaces that feel obvious to use, even when the product behind them is complex.
 
+## Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=phalla-doll&theme=dark&border_radius=7"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
 ## Projects 💼
 
 Here are some of the projects I've built:

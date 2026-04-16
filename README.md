@@ -2,7 +2,7 @@
 
 # Mantha — Frontend Design Engineer
 
-Design-minded engineer who builds fast, experiments often, and cares about how things feel, not just how they work. Portfolio → **[manthaa.dev](https://manthaa.dev)**
+Design-minded engineer who builds fast, experiments often, and cares about how things feel, not just how they work.
 
 I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. I work at the intersection of design systems, performance, and AI — turning product ideas into responsive interfaces that feel polished down to the last pixel and frame.
 

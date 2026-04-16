@@ -8,14 +8,6 @@ I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. I work a
 
 Over the last 7+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This profile is a snapshot of that work.
 
-## What I do
-
-**AI Driven** — I build interfaces that don’t just "call an API," but use models as first-class features: research assistants, financial dashboards, and tools that adapt to user behavior.
-
-**Performance** — I ship production frontends with Angular, Next.js, React, and TypeScript, wired to real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not static prototypes.
-
-**Experience** — I sweat the last 1%: alignment, contrast, 60fps motion, and keyboard-first navigation. Interfaces that feel obvious to use, even when the product behind them is complex.
-
 ## Stats
 <p align="center">
   <a href="https://git.io/streak-stats">

@@ -23,8 +23,8 @@ A curated selection from [manthaa.dev](https://manthaa.dev).
 [Project Sonam](https://sonam.manthaa.dev) — Modern ebook platform for browsing, searching, reading, and downloading 70,000+ free public domain books with an AI-powered librarian assistant.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, NVIDIA AI, Gutendex API
 
-[khmer-segment](https://www.npmjs.com/package/khmer-segment) — Published npm library for Khmer text segmentation, normalization, and grapheme-cluster utilities. Typed, zero-runtime-deps.
-**Tech Stack:** TypeScript, tsup, Vitest, Node.js · [GitHub](https://github.com/phalla-doll/khmer-segment-js)
+[Khmer Segment](https://www.npmjs.com/package/khmer-segment) — Published npm library for Khmer text segmentation, normalization, and grapheme-cluster utilities. Typed, zero-runtime-deps.
+**Tech Stack:** TypeScript, tsup, Vitest, Node.js
 
 [Soro](https://soro.manthaa.dev/) — Ambient sound mixer for focus, rest, and sleep. Layer nature, white noise, and binaural beats into a personal soundscape.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Web Audio API, Motion

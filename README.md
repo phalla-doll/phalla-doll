@@ -1,10 +1,10 @@
-# Mantha — Frontend Design Engineer
+# Mantha, Frontend Design Engineer
 
-Design-minded engineer who builds fast, experiments often, and cares about how things feel, not just how they work.
+Design-minded engineer. I ship quickly, tinker often, and care about how things feel as much as how they work.
 
-I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. I work at the intersection of design systems, performance, and AI — turning product ideas into responsive interfaces that feel polished down to the last pixel and frame.
+I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. My work sits somewhere between design systems, performance, and AI. I take product ideas and turn them into interfaces that hold up under real use.
 
-Over the last 7+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This profile is a snapshot of that work.
+Over the last 7+ years I’ve built dashboards, editors, booking tools, and 3D experiences for real teams and customers. This profile is a snapshot of that work.
 
 ## Stats
 <p align="center">
@@ -20,34 +20,34 @@ Over the last 7+ years, I’ve shipped dashboards, editors, booking tools, and 3
 
 A curated selection from [manthaa.dev](https://manthaa.dev).
 
-[Project Sonam](https://sonam.manthaa.dev) — Modern ebook platform for browsing, searching, reading, and downloading 70,000+ free public domain books with an AI-powered librarian assistant.
+[Project Sonam](https://sonam.manthaa.dev). An ebook reader with 70,000+ free public domain books and an AI librarian to help you figure out what to read next.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, NVIDIA AI, Gutendex API
 
-[Khmer Segment](https://www.npmjs.com/package/khmer-segment) — Published npm library for Khmer text segmentation, normalization, and grapheme-cluster utilities. Typed, zero-runtime-deps.
+[Khmer Segment](https://www.npmjs.com/package/khmer-segment). An npm library for Khmer text: segmentation, normalization, and grapheme-cluster helpers. Typed, no runtime deps.
 **Tech Stack:** TypeScript, tsup, Vitest, Node.js
 
-[Soro](https://soro.manthaa.dev/) — Ambient sound mixer for focus, rest, and sleep. Layer nature, white noise, and binaural beats into a personal soundscape.
+[Soro](https://soro.manthaa.dev/). Ambient sound mixer for focus or sleep. Stack nature loops, white noise, and binaural beats until it sounds right to you.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Web Audio API, Motion
 
-[ASCII Studio](https://ascii-art.manthaa.dev/) — Browser-based image to ASCII art converter with upload, drag-and-drop, clipboard paste, tuning controls, and export options.
+[ASCII Studio](https://ascii-art.manthaa.dev/). Image-to-ASCII converter that runs in the browser. Drop in a file or paste from your clipboard, tune the output, and export.
 **Tech Stack:** Web Browser APIs, Client-Side Image Processing, ASCII Character Mapping, Responsive UI
 
-[Stage Timer](https://stage-timmer.vercel.app) — High-contrast, real-time stage timer for event operators — manage speaker time and push visual signals.
+[Stage Timer](https://stage.manthaa.dev). High-contrast stage timer for event operators. Track speaker time and push visual cues to the stage display.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Convex, Motion
 
-[JSON Forge](https://json.manthaa.dev/) — High-performance JSON editor with Monaco, graph visualization, real-time validation, and safe handling of large files.
+[JSON Forge](https://json.manthaa.dev/). A JSON editor built on Monaco. See the structure as a graph, validate as you type, and open large files without the tab dying.
 **Tech Stack:** Monaco Editor, React, TypeScript, Tailwind CSS
 
-[Avocado Chat](https://chat.manthaa.dev/) — Client-side AI chat assistant with model selection, personality switching, session persistence, and streaming responses.
+[Avocado Chat](https://chat.manthaa.dev/). AI chat that runs in the browser. Switch models, switch personalities, keep sessions around, stream responses.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel AI SDK, NVIDIA AI, shadcn/ui
 
-[Story Assistant](https://vsa.manthaa.dev/) — Turns transcripts into AI-crafted, scene-by-scene visual direction with moods, keywords, and asset suggestions.
+[Story Assistant](https://vsa.manthaa.dev/). Drop in a transcript and get back scene-by-scene visual direction with moods, keywords, and asset suggestions.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Google Gemini, OpenRouter
 
-[Neon Play](https://neongame.online) — Browser gaming platform with 250+ curated games across 14 categories.
+[Neon Play](https://neongame.online). Browser games portal with 250+ titles sorted into 14 categories.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Motion
 
-[168 Hours](https://168.manthaa.dev) — Visual weekly planner for mapping all 168 hours. Compare your real week to your ideal and see the yearly impact.
+[168 Hours](https://168.manthaa.dev). A weekly planner that maps all 168 hours. Compare your real week to your ideal one and see what it adds up to over a year.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Zustand, Recharts
 
 See more projects on [GitHub repositories](https://github.com/phalla-doll?tab=repositories).

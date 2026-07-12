@@ -22,7 +22,7 @@ I’ve also been spending most of my coding time inside agentic tools like Claud
 
 A curated selection from [manthaa.dev](https://manthaa.dev).
 
-[Project Sonam](https://sonam.manthaa.dev). An ebook reader with 70,000+ free public domain books and an AI librarian to help you figure out what to read next.
+[Project Sonam](https://project-sonam.manthaa.workers.dev). An ebook reader with 70,000+ free public domain books and an AI librarian to help you figure out what to read next.
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, NVIDIA AI, Gutendex API
 
 [Khmer Segment](https://www.npmjs.com/package/khmer-segment). An npm library for Khmer text: segmentation, normalization, and grapheme-cluster helpers. Typed, no runtime deps.

@@ -4,7 +4,7 @@ Design-minded engineer. I ship quickly, tinker often, and care about how things 
 
 I’m Mantha, a Frontend Design Engineer based in Phnom Penh, Cambodia. My work sits somewhere between design systems, performance, and AI. I take product ideas and turn them into interfaces that hold up under real use.
 
-Over the last 7+ years I’ve built dashboards, editors, booking tools, and 3D experiences for real teams and customers. This profile is a snapshot of that work.
+Over the last 5+ years I’ve built dashboards, editors, booking tools, and 3D experiences for real teams and customers. This profile is a snapshot of that work.
 
 I’ve also been spending most of my coding time inside agentic tools like Claude Code, GPT Codex, and Opencode. A lot of the more recent projects below were built with one of them sitting next to me.
 
